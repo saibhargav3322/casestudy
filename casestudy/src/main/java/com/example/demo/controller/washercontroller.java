@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-//Gowtham new
+//Gowtham new one
 import java.util.List;
 import java.util.Optional;
 
@@ -84,7 +84,7 @@ public class washercontroller {
 
 			}
 
-			// Reading all washer
+			// Reading all washer Vamsi 
 			@GetMapping("/allorders")
 			public List<orders> getOrder() {
 				return repoorders.findAll();
