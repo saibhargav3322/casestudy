@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>casestudy</name>
+=======
 	<name>CaseStudy_CaseStudy</name>
+>>>>>>> 8c1bdcea6aa723a6fc8040ea770afd35d2e8a74a
 	<comment></comment>
 	<projects>
 	</projects>
@@ -20,6 +24,10 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
 		<buildCommand>
 			<name>org.springframework.ide.eclipse.core.springbuilder</name>
 			<arguments>
@@ -28,6 +36,7 @@
 	</buildSpec>
 	<natures>
 		<nature>org.springframework.ide.eclipse.core.springnature</nature>
+>>>>>>> 8c1bdcea6aa723a6fc8040ea770afd35d2e8a74a
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
