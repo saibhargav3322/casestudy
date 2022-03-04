@@ -83,7 +83,7 @@ public class washercontroller {
 
 			}
 
-			// Reading all washer
+			// Reading all washer Vamsi 
 			@GetMapping("/allorders")
 			public List<orders> getOrder() {
 				return repoorders.findAll();
