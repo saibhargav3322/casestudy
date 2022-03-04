@@ -52,7 +52,7 @@ public class controller {
 	public String updatecustomer(@PathVariable int id,@RequestBody customerproperties c)
 	{
 		service.updatecustomer(id,c);
-		return "updated successfully "+id; 
+		return "updated it successfully "+id; 
 	}
 	
 	
